@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/pranavpatil0087/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pranavpatil0087/LeetCode/tree/master/0724-find-pivot-index) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/pranavpatil0087/LeetCode/tree/master/0392-is-subsequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/pranavpatil0087/LeetCode/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/pranavpatil0087/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
