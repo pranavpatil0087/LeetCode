@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pranavpatil0087/LeetCode/tree/master/0011-container-with-most-water) |
 | [0560-subarray-sum-equals-k](https://github.com/pranavpatil0087/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pranavpatil0087/LeetCode/tree/master/0724-find-pivot-index) |
 ## Hash Table
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pranavpatil0087/LeetCode/tree/master/0011-container-with-most-water) |
 | [0392-is-subsequence](https://github.com/pranavpatil0087/LeetCode/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/pranavpatil0087/LeetCode/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/pranavpatil0087/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
